@@ -11,7 +11,7 @@
 
 **Team:** Harishraj T., Piranavini R., Kugaram M., Sanuri P., Kajanalini S.
 
-**My role:** *(fill in)*
+**My role:** Logic circuit design and hardware implementation (with the team).
 
 ---
 
